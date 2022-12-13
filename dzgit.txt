@@ -1,1 +1,2 @@
 I love Python!
+I am study now
